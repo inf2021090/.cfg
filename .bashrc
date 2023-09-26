@@ -20,3 +20,6 @@ fi
 # Load aliases
 source ~/aliases.sh
 alias config='/usr/bin/git --git-dir=/home/kafter/.cfg/ --work-tree=/home/kafter'
+
+#load icons
+source ~/.local/share/icons-in-terminal/icons_bash.sh
